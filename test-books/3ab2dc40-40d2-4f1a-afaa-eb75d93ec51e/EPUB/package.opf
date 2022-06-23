@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="d21041e30" prefix="dc: http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title id="d20201e20">World Cultures and Geography</dc:title>
+    <meta property="title-type" refines="#d20201e20">main</meta>
+    <dc:title id="d20201e1149">Legends of Landforms</dc:title>
+    <dc:title id="d20201e1158">Why Snails Have Shells</dc:title>
+    <dc:identifier id="d21041e30">41f1328c-0571-4e71-8be8-e65bc148281a</dc:identifier>
+    <dc:language>en-US</dc:language>
+    <meta property="dcterms:modified">2022-06-23T09:55:09Z</meta>
+    <meta property="dc:publisher">Anonymous</meta>
+    <meta property="dc:date">2014-12-11T09:12:52+00:00</meta>
+    <dc:source id="src">urn:isbn:9780618596645</dc:source>
+    <meta property="source-of" refines="#src">pagination</meta>
+    <meta property="dcterms:title">World Cultures and Geography</meta>
+    <meta property="dcterms:creator">DAISY XML Techniques Team</meta>
+    <meta property="schema:accessibilityFeature">alternativeText</meta>
+    <meta property="schema:accessibilityFeature">longDescription</meta>
+    <meta property="schema:accessibilityFeature">printPageNumbers</meta>
+    <meta property="schema:accessibilityFeature">readingOrder</meta>
+    <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+    <meta property="schema:accessibilityFeature">tableOfContents</meta>
+    <meta property="schema:accessibilityFeature">unlocked</meta>
+    <meta property="schema:educationalRole">student</meta>
+    <meta property="schema:typicalAgeRange">18+</meta>
+    <meta content="1.9.2" name="Sigil version"/>
+  </metadata>
+  <manifest>
+    <item id="item_1" href="images/wcag-p2-1.jpg" media-type="image/jpeg"/>
+    <item id="item_2" href="images/wcag-p14-1.jpg" media-type="image/jpeg"/>
+    <item id="item_3" href="images/wcag-p15-1-1.jpg" media-type="image/jpeg"/>
+    <item id="item_4" href="images/wcag-p16-1.jpg" media-type="image/jpeg"/>
+    <item id="item_5" href="images/wcag-p16-2.jpg" media-type="image/jpeg"/>
+    <item id="item_6" href="images/wcag-p17-1.jpg" media-type="image/jpeg"/>
+    <item id="item_7" href="images/wcag-p17-2.jpg" media-type="image/jpeg"/>
+    <item id="item_8" href="images/wcag-p18-1.jpg" media-type="image/jpeg"/>
+    <item id="item_9" href="images/wcag-p18-2.jpg" media-type="image/jpeg"/>
+    <item id="item_10" href="images/wcag-p19-1.jpg" media-type="image/jpeg"/>
+    <item id="item_11" href="images/wcag-p19-2.jpg" media-type="image/jpeg"/>
+    <item id="item_12" href="images/wcag-p19-3.jpg" media-type="image/jpeg"/>
+    <item id="item_13" href="images/wcag-p19-4.jpg" media-type="image/jpeg"/>
+    <item id="item_14" href="images/wcag-p19-5.jpg" media-type="image/jpeg"/>
+    <item id="item_15" href="images/wcag-p20-1.jpg" media-type="image/jpeg"/>
+    <item id="item_16" href="images/wcag-p20-2.jpg" media-type="image/jpeg"/>
+    <item id="item_17" href="images/wcag-p21-1.jpg" media-type="image/jpeg"/>
+    <item id="item_18" href="images/wcag-p22-1.jpg" media-type="image/jpeg"/>
+    <item id="item_19" href="images/wcag-p22-2.jpg" media-type="image/jpeg"/>
+    <item id="item_20" href="images/wcag-p22-3.jpg" media-type="image/jpeg"/>
+    <item id="item_21" href="images/wcag-p22-4.jpg" media-type="image/jpeg"/>
+    <item id="item_22" href="images/wcag-p24-1.jpg" media-type="image/jpeg"/>
+    <item id="item_23" href="images/wcag-p24-2.jpg" media-type="image/jpeg"/>
+    <item id="item_24" href="images/wcag-p25-1.jpg" media-type="image/jpeg"/>
+    <item id="item_25" href="images/wcag-p25-2.jpg" media-type="image/jpeg"/>
+    <item id="item_26" href="images/wcag-p26-1.jpg" media-type="image/jpeg"/>
+    <item id="item_27" href="images/wcag-p26-2.jpg" media-type="image/jpeg"/>
+    <item id="item_28" href="images/wcag-p26-3.jpg" media-type="image/jpeg"/>
+    <item id="item_29" href="images/wcag-p27-1.jpg" media-type="image/jpeg"/>
+    <item id="item_30" href="images/wcag-p30-1.jpg" media-type="image/jpeg"/>
+    <item id="item_31" href="images/wcag-p30-2.jpg" media-type="image/jpeg"/>
+    <item id="item_32" href="images/wcag-p31-1.jpg" media-type="image/jpeg"/>
+    <item id="item_33" href="images/wcag-p31-2.jpg" media-type="image/jpeg"/>
+    <item id="item_34" href="xhtml/WCAG-ch1-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="item_35" href="xhtml/WCAG-ch1-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="item_36" href="xhtml/toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="item_37" href="css/images/iconmonstr-info-8-icon-20x20.png" media-type="image/png"/>
+    <item id="item_38" href="css/images/iconmonstr-info-8-icon.png" media-type="image/png"/>
+    <item id="item_39" href="css/images/iconmonstr-window-new-icon-20x20.png" media-type="image/png"/>
+    <item id="item_40" href="css/images/iconmonstr-window-new-icon.png" media-type="image/png"/>
+    <item id="item_41" href="css/default.css" media-type="text/css"/>
+  </manifest>
+  <spine>
+    <itemref idref="item_34" id="itemref_1"/>
+    <itemref idref="item_35" id="itemref_2"/>
+    <itemref idref="item_36" id="itemref_3"/>
+  </spine>
+</package>
